@@ -1,6 +1,6 @@
 {
-  "name": "react-native-floating-bubble",
-  "version": "1.0.7",
+  "name": "@razvanrujoiu/react-native-floating-bubble",
+  "version": "1.0.0",
   "description": "Floating bubbles for React Native",
   "main": "index.js",
   "scripts": {
